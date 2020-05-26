@@ -4,6 +4,7 @@ public class Strudentmark {
 
 	public static void main(String[] args) {
 		System.out.println("Hai git");
+		System.out.println("Akshaya code");
 	}
 
 }
